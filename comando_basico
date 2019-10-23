@@ -6,3 +6,6 @@ git push
 
 Comando para criar o Branch e trabalhar no Branch
 git checkout -b Nome_Branch
+
+Para ver os Branchs
+git branch
