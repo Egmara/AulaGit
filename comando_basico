@@ -4,5 +4,5 @@ git add nome_do_arquivo
 git commit -m "mensagem sobre a mudanca"
 git push
 
-comando para criar o Branch e trabalhar no Branch
+Comando para criar o Branch e trabalhar no Branch
 git checkout -b Nome_Branch
