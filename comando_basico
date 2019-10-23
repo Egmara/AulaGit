@@ -9,3 +9,5 @@ git checkout -b Nome_Branch
 
 Para ver os Branchs
 git branch
+
+git checkout master // volta os arquivos para o estado master
