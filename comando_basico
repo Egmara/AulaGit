@@ -3,3 +3,6 @@ Adicionar alteracoes (no master por enquanto)
 git add nome_do_arquivo
 git commit -m "mensagem sobre a mudanca"
 git push
+
+Comando para criar o Branch e trabalhar no Branch
+git checkout -b Nome_Branch
